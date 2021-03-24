@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "TrafficGoggles"
+include ':openCVLibrary343'
+include ':openCVLibrary345'
